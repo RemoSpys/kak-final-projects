@@ -25,6 +25,8 @@
 - [Kristofer Mere](https://github.com/kiku69/DiscgolfApp.git) - Discgolfi challenge app
 - [Oliver Põder](https://github.com/Fluzby/2026-Project) - Tracking App
 - [Juhan Heinlaid](https://github.com/D1ZEASE420/Final-Project?tab=readme-ov-file#final-project) - Asukohapõhine alamäng
+- [Remo Tammela](https://github.com/RemoSpys/Final-Project) - FiveM'i (MDT) - Politsei ja Kiirabi Haldussüsteemi tahvel mängus
+
 
 # 2025
 
